@@ -15,8 +15,8 @@ The goal of this project is to create an online platform that allows users to ea
 - **Inventory Management**: Administrators can manage backend operations, including inventory tracking and sales reporting.
 
 # **Technologies**
-- **Frontend**: *HTML,CSS, JavaScript 
-- **Backend**: Node.js for server-side operations.
+- **Frontend**: *HTML,CSS, JavaScript, React js
+- **Backend**: Java for server-side operations.
 - **Database**: SQL for storing user data, book details, and order history.
 
 
